@@ -1,0 +1,22 @@
+.header{
+    background-color: indianred;
+    border-radius: 10px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(206, 206, 206);
+    justify-content: center;
+}
+
+body .title{
+    background-color: indianred;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.envelopes{
+    background-color: indianred;
+    text-align: center;
+    border-radius: 100px;
+}
